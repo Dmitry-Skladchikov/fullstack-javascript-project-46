@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "fullstack project 'gendiff'",
+  "main": "src/index.js",
   "bin": {
     "gendiff": "bin/gendiff.js"
   },
