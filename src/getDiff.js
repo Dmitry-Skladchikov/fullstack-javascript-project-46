@@ -19,5 +19,5 @@ export default (obj1, obj2) => {
         }
     }
     let difString = `{\n${diff}}`;
-    console.log(difString);
+    return difString;
 }
